@@ -1,0 +1,16 @@
+{
+    "git.ignoreLegacyWarning": true,
+    "workbench.colorTheme": "Monokai++",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.renderLineHighlight": "all",
+    "editor.wordWrap": "on",
+    "code-runner.runInTerminal": true,
+    "workbench.sideBar.location": "right",
+    "go.autocompleteUnimportedPackages": true,
+    "go.gotoSymbol.includeImports": true,
+    "groupImports.onSave": false,
+    "go.buildOnSave": "workspace",
+    "go.gocodeAutoBuild": true,
+    "go.useCodeSnippetsOnFunctionSuggest": true,
+    "NeteaseMusic.CDN.redirect": false
+}
