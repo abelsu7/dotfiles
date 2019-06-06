@@ -10,4 +10,4 @@ My dot files, including:
 - neovim
 - vscode
 
-> ***To be updated...
+> ***To be updated...***
