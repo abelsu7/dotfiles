@@ -105,6 +105,7 @@ alias pc='proxychains4'
 alias ll='ls -hl'
 alias tmux='tmux -2'
 # alias vim='nvim'
+alias check='systemctl status'
 
 export PATH="$HOME/.yarn/bin:$HOME/.config/yarn/global/node_modules/.bin:$PATH"
 
